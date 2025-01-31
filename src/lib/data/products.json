@@ -1,0 +1,103 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Vintage Brown Bear",
+			"price": 25.99,
+			"description": "This charming vintage brown bear is the perfect companion for cuddles and adventures. With its soft fur and endearing expression, it's sure to become a treasured member of any family.",
+			"images": ["/teddy-placeholder.svg", "/teddy-placeholder-2.svg", "/teddy-placeholder-3.svg"],
+			"primaryImageIndex": 0,
+			"features": [
+				"Made from high-quality, soft materials",
+				"Suitable for all ages",
+				"Hand-washable",
+				"Certified safe for children"
+			],
+			"reviews": [
+				{
+					"user": "Happy Parent",
+					"rating": 5,
+					"comment": "My child loves this bear! It's so soft and cuddly."
+				},
+				{
+					"user": "Collector",
+					"rating": 4,
+					"comment": "Great addition to my vintage teddy collection."
+				}
+			],
+			"stock": 10,
+			"category": "Vintage",
+			"tags": ["brown", "vintage", "soft"],
+			"brand": "TeddyLuxe",
+			"material": "Cotton and polyester blend"
+		},
+		{
+			"id": 2,
+			"name": "Cuddly Panda",
+			"price": 29.99,
+			"description": "An adorable panda bear plush that brings the charm of exotic wildlife to your home. This black and white companion is extra soft and perfect for cuddling.",
+			"images": ["/teddy-placeholder-2.svg", "/teddy-placeholder-3.svg", "/teddy-placeholder.svg"],
+			"primaryImageIndex": 1,
+			"features": [
+				"Black and white fur",
+				"Extra cuddly",
+				"Eco-friendly materials",
+				"Perfect size for hugging"
+			],
+			"reviews": [
+				{
+					"user": "Animal Lover",
+					"rating": 5,
+					"comment": "The most adorable panda ever! So soft and well-made."
+				}
+			],
+			"stock": 15,
+			"category": "Exotic",
+			"tags": ["panda", "black and white", "exotic"],
+			"brand": "PandaPals",
+			"material": "Premium plush fabric"
+		},
+		{
+			"id": 3,
+			"name": "Classic Honey Bear",
+			"price": 19.99,
+			"description": "A sweet honey-colored teddy bear that radiates warmth and comfort. This classic design features golden fur and a timeless appeal that never goes out of style.",
+			"images": ["/teddy-placeholder-3.svg", "/teddy-placeholder.svg", "/teddy-placeholder-2.svg"],
+			"primaryImageIndex": 2,
+			"features": ["Golden fur", "Soft texture", "Classic design", "Durable stitching"],
+			"reviews": [
+				{
+					"user": "Traditional Toy Fan",
+					"rating": 5,
+					"comment": "Perfect classic teddy bear! Just what I was looking for."
+				}
+			],
+			"stock": 20,
+			"category": "Classic",
+			"tags": ["honey", "golden", "classic"],
+			"brand": "HoneyHugs",
+			"material": "Synthetic fur blend"
+		},
+		{
+			"id": 4,
+			"name": "Retro Polar Bear",
+			"price": 34.99,
+			"description": "A cool retro-style polar bear plush that combines vintage charm with arctic appeal. This white bear features a unique retro design that stands out.",
+			"images": ["/teddy-placeholder.svg", "/teddy-placeholder-2.svg", "/teddy-placeholder-3.svg"],
+			"primaryImageIndex": 0,
+			"features": ["White fur", "Retro design", "Premium materials", "Collectible quality"],
+			"reviews": [
+				{
+					"user": "Vintage Collector",
+					"rating": 4,
+					"comment": "Love the retro style! A great addition to my collection."
+				}
+			],
+			"stock": 8,
+			"category": "Retro",
+			"tags": ["polar", "white", "retro"],
+			"brand": "FrostyFriends",
+			"material": "Premium white plush"
+		}
+	]
+}

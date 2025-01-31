@@ -20,17 +20,9 @@ export type Product = {
 	primaryImageIndex: number;
 	features: string[];
 	reviews: Review[];
-	relatedProducts: RelatedProduct[];
 	stock: number;
 	category: string;
 	tags: string[];
 	brand: string;
-	dimensions?: {
-		height: number;
-		width: number;
-		depth: number;
-	};
-	weight?: number;
-	ageRecommendation?: string;
-	material?: string;
+	material: string;
 };

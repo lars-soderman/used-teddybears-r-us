@@ -1,22 +1,22 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="200" fill="#F3E5D8"/>
+  <rect width="200" height="200" fill="#FFF3D4"/>
   <!-- Left ear -->
-  <circle cx="55" cy="45" r="25" fill="#8B4513"/>
+  <circle cx="55" cy="45" r="25" fill="#DAA520"/>
   <!-- Right ear -->
-  <circle cx="145" cy="45" r="25" fill="#8B4513"/>
+  <circle cx="145" cy="45" r="25" fill="#DAA520"/>
   <!-- Face -->
-  <circle cx="100" cy="100" r="80" fill="#8B4513"/>
+  <circle cx="100" cy="100" r="80" fill="#DAA520"/>
   <!-- Eyes -->
   <circle cx="70" cy="80" r="15" fill="white"/>
   <circle cx="130" cy="80" r="15" fill="white"/>
   <circle cx="70" cy="80" r="7" fill="black"/>
   <circle cx="130" cy="80" r="7" fill="black"/>
   <!-- Nose -->
-  <ellipse cx="100" cy="110" rx="15" ry="10" fill="#FFA07A"/>
+  <ellipse cx="100" cy="110" rx="15" ry="10" fill="#FFD700"/>
   <!-- Mouth -->
   <path d="M85 130 Q100 145 115 130" stroke="black" stroke-width="3" fill="none"/>
   <!-- Inner ears -->
-  <circle cx="55" cy="45" r="15" fill="#FFA07A"/>
-  <circle cx="145" cy="45" r="15" fill="#FFA07A"/>
+  <circle cx="55" cy="45" r="15" fill="#FFD700"/>
+  <circle cx="145" cy="45" r="15" fill="#FFD700"/>
 </svg>
 
